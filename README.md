@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Aathin</h1>
-<h3 align="center">data analyst fresher</h3>
+# 💫 About Me:
+data analyst fresher<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathin2001&label=Profile%20views&color=0e75b6&style=flat" alt="aathin2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aathin2001" alt="aathin2001" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aathin-r-a-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aathin025@gmail.com) 
 
-- 🌱 I’m currently learning **power bi , tableau , excel , my sql, python**
+# 💻 Tech Stack:
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=aathin2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aathin2001&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aathin2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 📫 How to reach me **aathin025@gmail.com**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=aathin2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aathin2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aathin2001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aathin r. a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aathin r. a" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ace" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aathin2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+[![](https://komarev.com/ghpvc/?username=aathin2001&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathin2001&show_icons=true&locale=en&layout=compact" alt="aathin2001" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
